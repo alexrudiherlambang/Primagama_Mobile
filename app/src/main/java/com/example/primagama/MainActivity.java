@@ -157,16 +157,11 @@ public class MainActivity extends AppCompatActivity
     public List<Product> getProductList(){
         //pseudocode to get product,repalce your code to get real product here
         productList=new ArrayList<>();
-        productList.add(new Product(R.drawable.gambar1,"Title 1", "Ini Deskripsi ke-1"));
-        productList.add(new Product(R.drawable.gambar1,"Title 2", "Ini Deskripsi ke-2"));
-        productList.add(new Product(R.drawable.gambar1,"Title 3", "Ini Deskripsi ke-3"));
-        productList.add(new Product(R.drawable.gambar1,"Title 4", "Ini Deskripsi ke-4"));
-        productList.add(new Product(R.drawable.gambar1,"Title 5", "Ini Deskripsi ke-5"));
-        productList.add(new Product(R.drawable.gambar1,"Title 6", "Ini Deskripsi ke-6"));
-        productList.add(new Product(R.drawable.gambar1,"Title 7", "Ini Deskripsi ke-7"));
-        productList.add(new Product(R.drawable.gambar1,"Title 8", "Ini Deskripsi ke-8"));
-        productList.add(new Product(R.drawable.gambar1,"Title 9", "Ini Deskripsi ke-9"));
-        productList.add(new Product(R.drawable.gambar1,"Title 10", "Ini Deskripsi ke-10"));
+        productList.add(new Product(R.drawable.gambar1,"Lihat Jadwal", "SISWA"));
+        productList.add(new Product(R.drawable.gambar1,"Lihat Absen", "SISWA"));
+        productList.add(new Product(R.drawable.gambar1,"Request Jadwal", "SISWA"));
+        productList.add(new Product(R.drawable.gambar1,"Lihat Profil", "SISWA"));
+        productList.add(new Product(R.drawable.gambar1,"Edit Profil", "SISWA"));
 
         return productList;
     }
