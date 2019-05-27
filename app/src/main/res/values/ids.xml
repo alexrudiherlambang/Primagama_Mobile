@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="input_tanggal" type="id">tanggal</item>
+    <item name="simpan_button" type="id">simpan</item>
+    <item name="input_mapel" type="id">mapel</item>
+    <item name="hasil_mapel" type="id">mapel</item>
+    <item name="hasil_tanggal" type="id">tanggal</item>
+</resources>
