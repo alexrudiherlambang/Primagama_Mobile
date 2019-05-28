@@ -6,4 +6,9 @@
     <string name="nav_header_subtitle">alexrudiherlambang98@gmail.com</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_lihatabsen">lihatabsen</string>
+    <string name="mapel">Mapel</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="jenjang">Jenjang :</string>
+    <string name="kelas">kelas</string>
 </resources>
