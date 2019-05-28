@@ -9,6 +9,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+
+        <activity android:name=".profile"></activity>
+
+        <activity android:name=".lihat_tagihan" />
+        <activity android:name=".request_jadwal" />
+        <activity android:name=".lihatsiswa" />
+        <activity android:name=".absensi" />
+
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name"
